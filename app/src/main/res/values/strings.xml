@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">BroadcastTx</string>
+	<string name="broadcast_action">Broadcast Action</string>
+	<string name="component_package_name">Component Package Name</string>
+	<string name="component_receiver_name">Component Receiver Name</string>
+	<string name="extra_value">Extra Value</string>
+	<string name="type">"Type: "</string>
+	<string name="add_extra">Add Extra</string>
+	<string name="remove_extra">Remove Extra</string>
+	<string name="send_broadcast">Send Broadcast</string>
+	<string name="extra_key">Extra Key</string>
+</resources>
